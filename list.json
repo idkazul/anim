@@ -1,0 +1,225 @@
+{
+  "Dances": [
+    {
+      "name": "Gangnam Style",
+      "id": 90780053178950
+    },
+    {
+      "name": "Brazil Dance",
+      "id": 121629160869984
+    },
+    {
+      "name": "Spongebob",
+      "id": 106576106721624
+    },
+    {
+      "name": "Take The L",
+      "id": 118343267142519
+    },
+    {
+      "name": "California Girls",
+      "id": 111281033685433
+    },
+    {
+      "name": "Scuba",
+      "id": 123761889433592
+    },
+    {
+      "name": "Tuff Dance",
+      "id": 136095999219650
+    },
+    {
+      "name": "Rat Dance",
+      "id": 113375965758912
+    },
+    {
+      "name": "Griddy",
+      "id": 81913798511136
+    },
+    {
+      "name": "Ksuuvi Stomp",
+      "id": 108429442201368
+    },
+    {
+      "name": "Xaviersobased",
+      "id": 73641795109238
+    },
+    {
+      "name": "Nervy Dance",
+      "id": 136058440999940
+    },
+    {
+      "name": "Party Rock Anthem",
+      "id": 134459607456762
+    },
+    {
+      "name": "Koto Nai",
+      "id": 83650099589962
+    },
+    {
+      "name": "Get Jiggy",
+      "id": 126649778668933
+    },
+    {
+      "name": "Pop That Thang",
+      "id": 120615013035083
+    },
+    {
+      "name": "China Dance",
+      "id": 112134517351163
+    },
+    {
+      "name": "Samba Dance",
+      "id": 103356254839664
+    },
+    {
+      "name": "Dance With The Pants",
+      "id": 131180439415702
+    },
+    {
+      "name": "Belly Dance",
+      "id": 88714339609944
+    },
+    {
+      "name": "Salsa Dance",
+      "id": 130264584381746
+    },
+    {
+      "name": "Haskell Four Lokos",
+      "id": 117420775806036
+    },
+    {
+      "name": "Macarena",
+      "id": 87026730190141
+    },
+    {
+      "name": "PSL Shuffle",
+      "id": 95798205376352
+    },
+    {
+      "name": "Whip Nae Nae",
+      "id": 117737977199957
+    },
+    {
+      "name": "IShowSpeed Bounce",
+      "id": 108080884209409
+    }
+  ],
+
+  "Actions": [
+    {
+      "name": "Punching Emote",
+      "id": 112172788073464
+    },
+    {
+      "name": "MMA Kick",
+      "id": 82599509502243
+    },
+    {
+      "name": "Fighting Stance",
+      "id": 80291024825993
+    },
+    {
+      "name": "KAPOW",
+      "id": 71483195998835
+    },
+    {
+      "name": "Kung Fu Pose",
+      "id": 139509828030920
+    },
+    {
+      "name": "Aura Fighting Stance",
+      "id": 123284315754700
+    },
+    {
+      "name": "Come Here",
+      "id": 10713984554
+    },
+    {
+      "name": "Slow Mo Run",
+      "id": 124665298882986
+    }
+  ],
+
+  "Weird": [
+    {
+      "name": "Needy",
+      "id": 108242544356577
+    },
+    {
+      "name": "Happy Hula",
+      "id": 71970944840848
+    },
+    {
+      "name": "Hoppin",
+      "id": 83792773141651
+    },
+    {
+      "name": "Caramelldansen",
+      "id": 127118661424463
+    },
+    {
+      "name": "Jackhammer",
+      "id": 74197947259508
+    },
+    {
+      "name": "Worm",
+      "id": 107383418910779
+    },
+    {
+      "name": "Feet Kicking",
+      "id": 124287251935400
+    },
+    {
+      "name": "Shake That Thang",
+      "id": 137752621250556
+    },
+    {
+      "name": "IShowSpeed Shake",
+      "id": 103913447080306
+    },
+    {
+      "name": "Throw It In A Circle",
+      "id": 139395178419877
+    },
+    {
+      "name": "Shake (Best)",
+      "id": 95860621109985
+    },
+    {
+      "name": "I Came To Groove",
+      "id": 132269133852709
+    },
+    {
+      "name": "Dive Bomb Push Ups",
+      "id": 96407980176626
+    }
+  ],
+
+  "Character": [
+    {
+      "name": "Helicopter",
+      "id": 76510079095692
+    },
+    {
+      "name": "Endless Floating Worm",
+      "id": 135990691658209
+    },
+    {
+      "name": "Goofy Flap",
+      "id": 118417760427139
+    },
+    {
+      "name": "Spider Crawl",
+      "id": 76993911030490
+    },
+    {
+      "name": "Clavicular",
+      "id": 76892786020048
+    },
+    {
+      "name": "Big Hand Wave",
+      "id": 86476456433431
+    }
+  ]
+}
